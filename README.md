@@ -1,8 +1,8 @@
 # CanvasEbookEditor
 Create, Edit and Save EBooks online, using HTML5 Canvas + Javascript.
 
-Two Javascript Libraries used in this project:
-1. Fabric.js (http://fabricjs.com/)
+Two Javascript Libraries used in this project:<br/>
+1. Fabric.js (http://fabricjs.com/)<br/>
 2. Turn.js (http://www.turnjs.com/)
 
 PHP is used on server side, to save private files for each user. Remember to modify file paths in PHP files.
